@@ -1,0 +1,755 @@
+{
+  "id1": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/001.png"
+  },
+  "id2": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/002.png"
+  },
+  "id3": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/003.png"
+  },
+  "id4": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/004.png"
+  },
+  "id5": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/005.png"
+  },
+  "id6": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/006.png"
+  },
+  "id7": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/007.png"
+  },
+  "id8": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/008.png"
+  },
+  "id9": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/009.png"
+  },
+  "id10": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/010.png"
+  },
+  "id11": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/011.png"
+  },
+  "id12": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/012.png"
+  },
+  "id13": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/013.png"
+  },
+  "id14": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/014.png"
+  },
+  "id15": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/015.png"
+  },
+  "id16": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/016.png"
+  },
+  "id17": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/017.png"
+  },
+  "id18": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/018.png"
+  },
+  "id19": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/019.png"
+  },
+  "id20": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/020.png"
+  },
+  "id21": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/021.png"
+  },
+  "id22": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/022.png"
+  },
+  "id23": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/023.png"
+  },
+  "id24": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/024.png"
+  },
+  "id25": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/025.png"
+  },
+  "id26": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/026.png"
+  },
+  "id27": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/027.png"
+  },
+  "id28": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/028.png"
+  },
+  "id29": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/029.png"
+  },
+  "id30": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/030.png"
+  },
+  "id31": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/031.png"
+  },
+  "id32": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/032.png"
+  },
+  "id33": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/033.png"
+  },
+  "id34": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/034.png"
+  },
+  "id35": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/035.png"
+  },
+  "id36": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/036.png"
+  },
+  "id37": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/037.png"
+  },
+  "id38": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/038.png"
+  },
+  "id39": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/039.png"
+  },
+  "id40": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/040.png"
+  },
+  "id41": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/041.png"
+  },
+  "id42": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/042.png"
+  },
+  "id43": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/043.png"
+  },
+  "id44": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/044.png"
+  },
+  "id45": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/045.png"
+  },
+  "id46": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/046.png"
+  },
+  "id47": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/047.png"
+  },
+  "id48": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/048.png"
+  },
+  "id49": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/049.png"
+  },
+  "id50": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/050.png"
+  },
+  "id51": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/051.png"
+  },
+  "id52": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/052.png"
+  },
+  "id53": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/053.png"
+  },
+  "id54": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/054.png"
+  },
+  "id55": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/055.png"
+  },
+  "id56": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/056.png"
+  },
+  "id57": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/057.png"
+  },
+  "id58": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/058.png"
+  },
+  "id59": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/059.png"
+  },
+  "id60": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/060.png"
+  },
+  "id61": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/061.png"
+  },
+  "id62": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/062.png"
+  },
+  "id63": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/063.png"
+  },
+  "id64": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/064.png"
+  },
+  "id65": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/065.png"
+  },
+  "id66": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/066.png"
+  },
+  "id67": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/067.png"
+  },
+  "id68": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/068.png"
+  },
+  "id69": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/069.png"
+  },
+  "id70": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/070.png"
+  },
+  "id71": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/071.png"
+  },
+  "id72": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/072.png"
+  },
+  "id73": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/073.png"
+  },
+  "id74": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/074.png"
+  },
+  "id75": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/075.png"
+  },
+  "id76": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/076.png"
+  },
+  "id77": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/077.png"
+  },
+  "id78": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/078.png"
+  },
+  "id79": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/079.png"
+  },
+  "id80": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/080.png"
+  },
+  "id81": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/081.png"
+  },
+  "id82": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/082.png"
+  },
+  "id83": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/083.png"
+  },
+  "id84": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/084.png"
+  },
+  "id85": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/085.png"
+  },
+  "id86": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/086.png"
+  },
+  "id87": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/087.png"
+  },
+  "id88": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/088.png"
+  },
+  "id89": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/089.png"
+  },
+  "id90": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/090.png"
+  },
+  "id91": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/091.png"
+  },
+  "id92": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/092.png"
+  },
+  "id93": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/093.png"
+  },
+  "id94": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/094.png"
+  },
+  "id95": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/095.png"
+  },
+  "id96": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/096.png"
+  },
+  "id97": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/097.png"
+  },
+  "id98": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/098.png"
+  },
+  "id99": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/099.png"
+  },
+  "id100": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/100.png"
+  },
+  "id101": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/101.png"
+  },
+  "id102": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/102.png"
+  },
+  "id103": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/103.png"
+  },
+  "id104": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/104.png"
+  },
+  "id105": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/105.png"
+  },
+  "id106": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/106.png"
+  },
+  "id107": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/107.png"
+  },
+  "id108": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/108.png"
+  },
+  "id109": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/109.png"
+  },
+  "id110": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/110.png"
+  },
+  "id111": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/111.png"
+  },
+  "id112": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/112.png"
+  },
+  "id113": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/113.png"
+  },
+  "id114": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/114.png"
+  },
+  "id115": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/115.png"
+  },
+  "id116": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/116.png"
+  },
+  "id117": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/117.png"
+  },
+  "id118": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/118.png"
+  },
+  "id119": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/119.png"
+  },
+  "id120": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/120.png"
+  },
+  "id121": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/121.png"
+  },
+  "id122": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/122.png"
+  },
+  "id123": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/123.png"
+  },
+  "id124": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/124.png"
+  },
+  "id125": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/125.png"
+  },
+  "id126": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/126.png"
+  },
+  "id127": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/127.png"
+  },
+  "id128": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/128.png"
+  },
+  "id129": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/129.png"
+  },
+  "id130": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/130.png"
+  },
+  "id131": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/131.png"
+  },
+  "id132": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/132.png"
+  },
+  "id133": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/133.png"
+  },
+  "id134": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/134.png"
+  },
+  "id135": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/135.png"
+  },
+  "id136": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/136.png"
+  },
+  "id137": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/137.png"
+  },
+  "id138": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/138.png"
+  },
+  "id139": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/139.png"
+  },
+  "id140": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/140.png"
+  },
+  "id141": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/141.png"
+  },
+  "id142": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/142.png"
+  },
+  "id143": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/143.png"
+  },
+  "id144": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/144.png"
+  },
+  "id145": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/145.png"
+  },
+  "id146": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/146.png"
+  },
+  "id147": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/147.png"
+  },
+  "id148": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/148.png"
+  },
+  "id149": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/149.png"
+  },
+  "id150": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/150.png"
+  },
+  "id151": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/151.png"
+  },
+  "id152": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/152.png"
+  },
+  "id153": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/153.png"
+  },
+  "id154": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/154.png"
+  },
+  "id155": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/155.png"
+  },
+  "id156": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/156.png"
+  },
+  "id157": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/157.png"
+  },
+  "id158": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/158.png"
+  },
+  "id159": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/159.png"
+  },
+  "id160": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/160.png"
+  },
+  "id161": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/161.png"
+  },
+  "id162": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/162.png"
+  },
+  "id163": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/163.png"
+  },
+  "id164": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/164.png"
+  },
+  "id165": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/165.png"
+  },
+  "id166": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/166.png"
+  },
+  "id167": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/167.png"
+  },
+  "id168": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/168.png"
+  },
+  "id169": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/169.png"
+  },
+  "id170": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/170.png"
+  },
+  "id171": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/171.png"
+  },
+  "id172": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/172.png"
+  },
+  "id173": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/173.png"
+  },
+  "id174": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/174.png"
+  },
+  "id175": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/175.png"
+  },
+  "id176": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/176.png"
+  },
+  "id177": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/177.png"
+  },
+  "id178": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/178.png"
+  },
+  "id179": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/179.png"
+  },
+  "id180": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/180.png"
+  },
+  "id181": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/181.png"
+  },
+  "id182": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/182.png"
+  },
+  "id183": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/183.png"
+  },
+  "id184": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/184.png"
+  },
+  "id185": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/185.png"
+  },
+  "id186": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/186.png"
+  },
+  "id187": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/187.png"
+  },
+  "id188": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/188.png"
+  },
+  "id189": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/189.png"
+  },
+  "id190": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/190.png"
+  },
+  "id191": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/191.png"
+  },
+  "id192": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/192.png"
+  },
+  "id193": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/193.png"
+  },
+  "id194": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/194.png"
+  },
+  "id195": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/195.png"
+  },
+  "id196": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/196.png"
+  },
+  "id197": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/197.png"
+  },
+  "id198": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/198.png"
+  },
+  "id199": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/199.png"
+  },
+  "id200": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/200.png"
+  },
+  "id201": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/201.png"
+  },
+  "id202": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/202.png"
+  },
+  "id203": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/203.png"
+  },
+  "id204": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/204.png"
+  },
+  "id205": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/205.png"
+  },
+  "id206": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/206.png"
+  },
+  "id207": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/207.png"
+  },
+  "id208": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/208.png"
+  },
+  "id209": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/209.png"
+  },
+  "id210": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/210.png"
+  },
+  "id211": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/211.png"
+  },
+  "id212": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/212.png"
+  },
+  "id213": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/213.png"
+  },
+  "id214": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/214.png"
+  },
+  "id215": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/215.png"
+  },
+  "id216": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/216.png"
+  },
+  "id217": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/217.png"
+  },
+  "id218": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/218.png"
+  },
+  "id219": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/219.png"
+  },
+  "id220": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/220.png"
+  },
+  "id221": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/221.png"
+  },
+  "id222": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/222.png"
+  },
+  "id223": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/223.png"
+  },
+  "id224": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/224.png"
+  },
+  "id225": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/225.png"
+  },
+  "id226": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/226.png"
+  },
+  "id227": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/227.png"
+  },
+  "id228": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/228.png"
+  },
+  "id229": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/229.png"
+  },
+  "id230": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/230.png"
+  },
+  "id231": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/231.png"
+  },
+  "id232": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/232.png"
+  },
+  "id233": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/233.png"
+  },
+  "id234": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/234.png"
+  },
+  "id235": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/235.png"
+  },
+  "id236": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/236.png"
+  },
+  "id237": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/237.png"
+  },
+  "id238": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/238.png"
+  },
+  "id239": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/239.png"
+  },
+  "id240": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/240.png"
+  },
+  "id241": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/241.png"
+  },
+  "id242": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/242.png"
+  },
+  "id243": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/243.png"
+  },
+  "id244": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/244.png"
+  },
+  "id245": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/245.png"
+  },
+  "id246": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/246.png"
+  },
+  "id247": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/247.png"
+  },
+  "id248": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/248.png"
+  },
+  "id249": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/249.png"
+  },
+  "id250": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/250.png"
+  },
+  "id251": {
+    "url": "http://www.serebii.net/pokearth/sprites/hgss/251.png"
+  }
+}
